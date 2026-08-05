@@ -1,4 +1,3 @@
-IT Service Desk Performance Dashboard
 Overview
 
 This project analyses IT Service Desk ticket data to monitor operational performance across support teams. The dashboard focuses on ticket volumes, resolution performance, high-priority incidents and team workload, providing managers with clear insights into service desk activity and operational efficiency.
@@ -22,3 +21,7 @@ Excel (Data Preparation)
 Business Value
 
 This dashboard provides operational visibility of IT Service Desk performance by highlighting ticket workloads, resolution efficiency and high-priority incidents across support teams. The interactive reporting enables managers to monitor key performance indicators, identify trends and make informed decisions to improve service delivery and resource allocation.
+
+## Dashboard Preview
+
+![Dashboard](dashboard2.png)
