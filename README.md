@@ -24,4 +24,4 @@ This dashboard provides operational visibility of IT Service Desk performance by
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![IT Service Desk Dashboard](Dashboard.png)
